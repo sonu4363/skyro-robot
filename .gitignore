@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# TTS cache (generated files, not needed in repo)
+tts_cache/
+
+# Recorded audio files
+recordings/
+
+# Local dependency folder
+py_deps/
+
+# Environment variables
+.env
+*.env
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino build output
+build/

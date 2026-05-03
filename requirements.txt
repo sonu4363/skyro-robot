@@ -1,0 +1,6 @@
+flask>=2.3.0
+SpeechRecognition>=3.10.0
+groq>=0.4.0
+gTTS>=2.3.0
+miniaudio>=1.57
+werkzeug>=2.3.0
